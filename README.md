@@ -1,1 +1,1 @@
-todo-for-infotecs.vercel.app
+https://todo-for-infotecs.vercel.app/
