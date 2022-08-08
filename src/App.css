@@ -1,0 +1,11 @@
+.main{
+   background: #C8C0B8;
+   min-height: calc(100vh - 110px);
+}
+.container{
+   max-width: 1167.61px;
+   margin: 0 auto;
+}
+.main__row{
+   display: flex;
+}
